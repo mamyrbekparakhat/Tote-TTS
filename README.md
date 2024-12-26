@@ -11,6 +11,7 @@
 
 **F5-TTS**: Diffusion Transformer with ConvNeXt V2, faster trained and inference.
 
+
 **E2 TTS**: Flat-UNet Transformer, closest reproduction from [paper](https://arxiv.org/abs/2406.18009).
 
 **Sway Sampling**: Inference-time flow step sampling strategy, greatly improves performance
